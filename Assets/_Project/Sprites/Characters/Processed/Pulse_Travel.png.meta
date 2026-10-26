@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: 819703a91d9983c42a8b40ef12999318
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5553869236473487742
+    second: Pulse_Travel_0
+  - first:
+      213: 1864361070816707279
+    second: Pulse_Travel_1
+  - first:
+      213: 5380407291868677170
+    second: Pulse_Travel_2
+  - first:
+      213: -7549271994672533376
+    second: Pulse_Travel_3
+  - first:
+      213: 7331927435654744314
+    second: Pulse_Travel_4
+  - first:
+      213: -9116783181326180601
+    second: Pulse_Travel_5
+  - first:
+      213: 2055306621756504935
+    second: Pulse_Travel_6
+  - first:
+      213: -1904711380287436938
+    second: Pulse_Travel_7
+  - first:
+      213: -5414110332537036375
+    second: Pulse_Travel_8
+  - first:
+      213: -6069087101780205806
+    second: Pulse_Travel_9
+  - first:
+      213: -8941280734462169544
+    second: Pulse_Travel_10
+  - first:
+      213: -799840671019137513
+    second: Pulse_Travel_11
+  - first:
+      213: 403849685167444902
+    second: Pulse_Travel_12
+  - first:
+      213: -5207774269892834729
+    second: Pulse_Travel_13
+  - first:
+      213: 3355331303663705290
+    second: Pulse_Travel_14
+  - first:
+      213: -6620356565686353543
+    second: Pulse_Travel_15
+  - first:
+      213: -7298330200606397119
+    second: Pulse_Travel_16
+  - first:
+      213: -2238588600198149974
+    second: Pulse_Travel_17
+  - first:
+      213: -104071973474944516
+    second: Pulse_Travel_00
+  - first:
+      213: -9207783946726061840
+    second: Pulse_Travel_01
+  - first:
+      213: -2680197264731648200
+    second: Pulse_Travel_02
+  - first:
+      213: 6322223533602657070
+    second: Pulse_Travel_03
+  - first:
+      213: 2563011632337654048
+    second: Pulse_Travel_04
+  - first:
+      213: -5478615845662095124
+    second: Pulse_Travel_05
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pulse_Travel_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 341.33334
+        height: 410
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9b3fd67134e8ef0800000000000000
+      internalID: -104071973474944516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Travel_01
+      rect:
+        serializedVersion: 2
+        x: 341.33334
+        y: 0
+        width: 341.33334
+        height: 410
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f849de0941673080800000000000000
+      internalID: -9207783946726061840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Travel_02
+      rect:
+        serializedVersion: 2
+        x: 682.6667
+        y: 0
+        width: 341.33334
+        height: 410
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f42bbb9c60ecad0800000000000000
+      internalID: -2680197264731648200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Travel_03
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 341.33334
+        height: 410
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e235007aecc0db750800000000000000
+      internalID: 6322223533602657070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Travel_04
+      rect:
+        serializedVersion: 2
+        x: 1365.3334
+        y: 0
+        width: 341.33334
+        height: 410
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0211eac0085a19320800000000000000
+      internalID: 2563011632337654048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Travel_05
+      rect:
+        serializedVersion: 2
+        x: 1706.6667
+        y: 0
+        width: 341.33334
+        height: 410
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce80c725aeb08f3b0800000000000000
+      internalID: -5478615845662095124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pulse_Travel_0: 5553869236473487742
+      Pulse_Travel_00: -104071973474944516
+      Pulse_Travel_01: -9207783946726061840
+      Pulse_Travel_02: -2680197264731648200
+      Pulse_Travel_03: 6322223533602657070
+      Pulse_Travel_04: 2563011632337654048
+      Pulse_Travel_05: -5478615845662095124
+      Pulse_Travel_1: 1864361070816707279
+      Pulse_Travel_10: -8941280734462169544
+      Pulse_Travel_11: -799840671019137513
+      Pulse_Travel_12: 403849685167444902
+      Pulse_Travel_13: -5207774269892834729
+      Pulse_Travel_14: 3355331303663705290
+      Pulse_Travel_15: -6620356565686353543
+      Pulse_Travel_16: -7298330200606397119
+      Pulse_Travel_17: -2238588600198149974
+      Pulse_Travel_2: 5380407291868677170
+      Pulse_Travel_3: -7549271994672533376
+      Pulse_Travel_4: 7331927435654744314
+      Pulse_Travel_5: -9116783181326180601
+      Pulse_Travel_6: 2055306621756504935
+      Pulse_Travel_7: -1904711380287436938
+      Pulse_Travel_8: -5414110332537036375
+      Pulse_Travel_9: -6069087101780205806
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
