@@ -1,0 +1,31 @@
+The set includes:
+
+**5 Music Tracks:**
+
+* Track Greenzone
+* Track Industrial
+* Track Intro
+* Track Lab
+* Track Race
+
+**29 Sound Effects:**
+
+* Access sounds: *Access Denied*, *Access Granted*
+* Dog barks: *Bark1–Bark5*
+* Blaster shot: *Blaster Laser*
+* Dull hit on glass or mouse click: *Bump*
+* Crow sound: *Crow*
+* Death sounds: *Dead1*, *Dead2*
+* Drone engine (magnetic or electric): *Drone*
+* Motor sound: *Engine*
+* Explosions: *Explosion*, *Explosion2*
+* Flame sounds: *Flame1*, *Flame2*
+* Fire extinguisher or pressurized flame: *Flamethrower*
+* Metal gate open/close: *Gate Close*, *Gate Open*
+* Breaking glass: *Glass*
+* Heavy male exhale: *Groans*
+* Press machine: *Press*
+* Robot hammer strike: *Punch*
+* Sliding door open/close: *Slide Door Close*, *Slide Door Open*
+* Ball lightning: *Thunderbolt*
+* Alarm signal: *Warning*
