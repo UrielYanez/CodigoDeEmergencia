@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: a96022d3c595a884c9b380a7c27a99b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3066773252386457188
+    second: Pulse_Impact_0
+  - first:
+      213: 3495654445735367677
+    second: Pulse_Impact_1
+  - first:
+      213: -195780566484657412
+    second: Pulse_Impact_2
+  - first:
+      213: 3932242627494329375
+    second: Pulse_Impact_3
+  - first:
+      213: 5474246641003912451
+    second: Pulse_Impact_4
+  - first:
+      213: 7334839135066228566
+    second: Pulse_Impact_5
+  - first:
+      213: -1911051649349697063
+    second: Pulse_Impact_6
+  - first:
+      213: -6099593643575708287
+    second: Pulse_Impact_7
+  - first:
+      213: -306278324456522175
+    second: Pulse_Impact_8
+  - first:
+      213: -3864117454131201694
+    second: Pulse_Impact_9
+  - first:
+      213: 4832102235848729737
+    second: Pulse_Impact_10
+  - first:
+      213: 2833627003908162216
+    second: Pulse_Impact_11
+  - first:
+      213: 5699881277094438955
+    second: Pulse_Impact_12
+  - first:
+      213: 544034398224846033
+    second: Pulse_Impact_13
+  - first:
+      213: 6623003774498239327
+    second: Pulse_Impact_14
+  - first:
+      213: -4465167884003197282
+    second: Pulse_Impact_15
+  - first:
+      213: 3751130087129337273
+    second: Pulse_Impact_16
+  - first:
+      213: 4475112344034715430
+    second: Pulse_Impact_17
+  - first:
+      213: 8332902324348946417
+    second: Pulse_Impact_18
+  - first:
+      213: 7349621393601646927
+    second: Pulse_Impact_19
+  - first:
+      213: -748498490329083771
+    second: Pulse_Impact_20
+  - first:
+      213: 8294625780406278256
+    second: Pulse_Impact_21
+  - first:
+      213: 531950992163407224
+    second: Pulse_Impact_22
+  - first:
+      213: 4720259401775008760
+    second: Pulse_Impact_23
+  - first:
+      213: 3686779111900581593
+    second: Pulse_Impact_24
+  - first:
+      213: 8888980410500213626
+    second: Pulse_Impact_25
+  - first:
+      213: 5663147223091555470
+    second: Pulse_Impact_26
+  - first:
+      213: 7527952776566355174
+    second: Pulse_Impact_27
+  - first:
+      213: 8644409748424598235
+    second: Pulse_Impact_28
+  - first:
+      213: -6853532827394487884
+    second: Pulse_Impact_29
+  - first:
+      213: -2847488555202931485
+    second: Pulse_Impact_30
+  - first:
+      213: 1898539072748424819
+    second: Pulse_Impact_31
+  - first:
+      213: -4908258802630804827
+    second: Pulse_Impact_32
+  - first:
+      213: -89802593723853047
+    second: Pulse_Impact_33
+  - first:
+      213: -8169195439150395325
+    second: Pulse_Impact_34
+  - first:
+      213: -4034612555618927225
+    second: Pulse_Impact_35
+  - first:
+      213: -5146664960283053036
+    second: Pulse_Impact_36
+  - first:
+      213: -1730931308385842051
+    second: Pulse_Impact_37
+  - first:
+      213: 8889324258310252053
+    second: Pulse_Impact_38
+  - first:
+      213: 7799250555366814415
+    second: Pulse_Impact_39
+  - first:
+      213: -6026016341548653862
+    second: Pulse_Impact_40
+  - first:
+      213: -3383581293431507128
+    second: Pulse_Impact_41
+  - first:
+      213: 3871263540080502965
+    second: Pulse_Impact_42
+  - first:
+      213: 3684774512506386824
+    second: Pulse_Impact_43
+  - first:
+      213: -4225923555695378513
+    second: Pulse_Impact_44
+  - first:
+      213: 1310859908626018944
+    second: Pulse_Impact_45
+  - first:
+      213: 6304789439276331823
+    second: Pulse_Impact_46
+  - first:
+      213: 2354228217486694128
+    second: Pulse_Impact_47
+  - first:
+      213: 6188732385827248353
+    second: Pulse_Impact_48
+  - first:
+      213: 67712100040403401
+    second: Pulse_Impact_49
+  - first:
+      213: -6977121522507756545
+    second: Pulse_Impact_50
+  - first:
+      213: 3312596964362245641
+    second: Pulse_Impact_51
+  - first:
+      213: 7590291507937645558
+    second: Pulse_Impact_52
+  - first:
+      213: -170894969988364422
+    second: Pulse_Impact_53
+  - first:
+      213: -4130119801263003166
+    second: Pulse_Impact_54
+  - first:
+      213: 3933268201777085336
+    second: Pulse_Impact_55
+  - first:
+      213: 6380427399884460348
+    second: Pulse_Impact_56
+  - first:
+      213: -2375578220274187920
+    second: Pulse_Impact_57
+  - first:
+      213: -186971599167767827
+    second: Pulse_Impact_58
+  - first:
+      213: -1957445854344599933
+    second: Pulse_Impact_59
+  - first:
+      213: 8047976424344766467
+    second: Pulse_Impact_60
+  - first:
+      213: 5043534773754751194
+    second: Pulse_Impact_61
+  - first:
+      213: 3962321908820453671
+    second: Pulse_Impact_62
+  - first:
+      213: 6464290333612372265
+    second: Pulse_Impact_63
+  - first:
+      213: 913410693224848581
+    second: Pulse_Impact_64
+  - first:
+      213: -24098724573295666
+    second: Pulse_Impact_65
+  - first:
+      213: 6414423125954420267
+    second: Pulse_Impact_66
+  - first:
+      213: 4545341952311480265
+    second: Pulse_Impact_67
+  - first:
+      213: 8013622589790961943
+    second: Pulse_Impact_68
+  - first:
+      213: 2115224003196537935
+    second: Pulse_Impact_00
+  - first:
+      213: -5644079840243914837
+    second: Pulse_Impact_01
+  - first:
+      213: -5319292872662196292
+    second: Pulse_Impact_02
+  - first:
+      213: 4971742219407199466
+    second: Pulse_Impact_03
+  - first:
+      213: 8635474605501796952
+    second: Pulse_Impact_04
+  - first:
+      213: 60452493530460351
+    second: Pulse_Impact_05
+  - first:
+      213: -8568118797646353258
+    second: Pulse_Impact_07
+  - first:
+      213: 5074631368200700618
+    second: Pulse_Impact_08
+  - first:
+      213: -6938930022128054138
+    second: Pulse_Impact_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pulse_Impact_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 292.57144
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cc8e22609ca5d10800000000000000
+      internalID: 2115224003196537935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Impact_01
+      rect:
+        serializedVersion: 2
+        x: 292.57144
+        y: 254
+        width: 292.57144
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba76156f9433ca1b0800000000000000
+      internalID: -5644079840243914837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Impact_02
+      rect:
+        serializedVersion: 2
+        x: 585.1429
+        y: 254
+        width: 292.57144
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfd3bca0531e26b0800000000000000
+      internalID: -5319292872662196292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Impact_03
+      rect:
+        serializedVersion: 2
+        x: 877.71436
+        y: 254
+        width: 292.57144
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec0496053d2ff440800000000000000
+      internalID: 4971742219407199466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Impact_04
+      rect:
+        serializedVersion: 2
+        x: 1170.2858
+        y: 254
+        width: 292.57144
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85257d7a66e57d770800000000000000
+      internalID: 8635474605501796952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Impact_05
+      rect:
+        serializedVersion: 2
+        x: 1462.8572
+        y: 254
+        width: 292.57144
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb07baaf835c6d000800000000000000
+      internalID: 60452493530460351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Impact_06
+      rect:
+        serializedVersion: 2
+        x: 1755.4287
+        y: 254
+        width: 292.57144
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Impact_07
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 292.57144
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c21f0795de71980800000000000000
+      internalID: -8568118797646353258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Impact_08
+      rect:
+        serializedVersion: 2
+        x: 292.57144
+        y: 0
+        width: 292.57144
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac248a3c756bc6640800000000000000
+      internalID: 5074631368200700618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Impact_09
+      rect:
+        serializedVersion: 2
+        x: 585.1429
+        y: 0
+        width: 292.57144
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68093cda8e7f3bf90800000000000000
+      internalID: -6938930022128054138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Impact_10
+      rect:
+        serializedVersion: 2
+        x: 877.71436
+        y: 0
+        width: 292.57144
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9846226c1631f0340800000000000000
+      internalID: 4832102235848729737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Impact_11
+      rect:
+        serializedVersion: 2
+        x: 1170.2858
+        y: 0
+        width: 292.57144
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a286e13fb0135720800000000000000
+      internalID: 2833627003908162216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Impact_12
+      rect:
+        serializedVersion: 2
+        x: 1462.8572
+        y: 0
+        width: 292.57144
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b282d1f72db0a1f40800000000000000
+      internalID: 5699881277094438955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Impact_13
+      rect:
+        serializedVersion: 2
+        x: 1755.4287
+        y: 0
+        width: 292.57144
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pulse_Impact_0: 3066773252386457188
+      Pulse_Impact_00: 2115224003196537935
+      Pulse_Impact_01: -5644079840243914837
+      Pulse_Impact_02: -5319292872662196292
+      Pulse_Impact_03: 4971742219407199466
+      Pulse_Impact_04: 8635474605501796952
+      Pulse_Impact_05: 60452493530460351
+      Pulse_Impact_07: -8568118797646353258
+      Pulse_Impact_08: 5074631368200700618
+      Pulse_Impact_09: -6938930022128054138
+      Pulse_Impact_1: 3495654445735367677
+      Pulse_Impact_10: 4832102235848729737
+      Pulse_Impact_11: 2833627003908162216
+      Pulse_Impact_12: 5699881277094438955
+      Pulse_Impact_13: 544034398224846033
+      Pulse_Impact_14: 6623003774498239327
+      Pulse_Impact_15: -4465167884003197282
+      Pulse_Impact_16: 3751130087129337273
+      Pulse_Impact_17: 4475112344034715430
+      Pulse_Impact_18: 8332902324348946417
+      Pulse_Impact_19: 7349621393601646927
+      Pulse_Impact_2: -195780566484657412
+      Pulse_Impact_20: -748498490329083771
+      Pulse_Impact_21: 8294625780406278256
+      Pulse_Impact_22: 531950992163407224
+      Pulse_Impact_23: 4720259401775008760
+      Pulse_Impact_24: 3686779111900581593
+      Pulse_Impact_25: 8888980410500213626
+      Pulse_Impact_26: 5663147223091555470
+      Pulse_Impact_27: 7527952776566355174
+      Pulse_Impact_28: 8644409748424598235
+      Pulse_Impact_29: -6853532827394487884
+      Pulse_Impact_3: 3932242627494329375
+      Pulse_Impact_30: -2847488555202931485
+      Pulse_Impact_31: 1898539072748424819
+      Pulse_Impact_32: -4908258802630804827
+      Pulse_Impact_33: -89802593723853047
+      Pulse_Impact_34: -8169195439150395325
+      Pulse_Impact_35: -4034612555618927225
+      Pulse_Impact_36: -5146664960283053036
+      Pulse_Impact_37: -1730931308385842051
+      Pulse_Impact_38: 8889324258310252053
+      Pulse_Impact_39: 7799250555366814415
+      Pulse_Impact_4: 5474246641003912451
+      Pulse_Impact_40: -6026016341548653862
+      Pulse_Impact_41: -3383581293431507128
+      Pulse_Impact_42: 3871263540080502965
+      Pulse_Impact_43: 3684774512506386824
+      Pulse_Impact_44: -4225923555695378513
+      Pulse_Impact_45: 1310859908626018944
+      Pulse_Impact_46: 6304789439276331823
+      Pulse_Impact_47: 2354228217486694128
+      Pulse_Impact_48: 6188732385827248353
+      Pulse_Impact_49: 67712100040403401
+      Pulse_Impact_5: 7334839135066228566
+      Pulse_Impact_50: -6977121522507756545
+      Pulse_Impact_51: 3312596964362245641
+      Pulse_Impact_52: 7590291507937645558
+      Pulse_Impact_53: -170894969988364422
+      Pulse_Impact_54: -4130119801263003166
+      Pulse_Impact_55: 3933268201777085336
+      Pulse_Impact_56: 6380427399884460348
+      Pulse_Impact_57: -2375578220274187920
+      Pulse_Impact_58: -186971599167767827
+      Pulse_Impact_59: -1957445854344599933
+      Pulse_Impact_6: -1911051649349697063
+      Pulse_Impact_60: 8047976424344766467
+      Pulse_Impact_61: 5043534773754751194
+      Pulse_Impact_62: 3962321908820453671
+      Pulse_Impact_63: 6464290333612372265
+      Pulse_Impact_64: 913410693224848581
+      Pulse_Impact_65: -24098724573295666
+      Pulse_Impact_66: 6414423125954420267
+      Pulse_Impact_67: 4545341952311480265
+      Pulse_Impact_68: 8013622589790961943
+      Pulse_Impact_7: -6099593643575708287
+      Pulse_Impact_8: -306278324456522175
+      Pulse_Impact_9: -3864117454131201694
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
