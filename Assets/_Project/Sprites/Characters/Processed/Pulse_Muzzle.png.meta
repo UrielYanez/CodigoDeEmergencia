@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: bef41ec59797f694190ed04899a133f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6615120096606566318
+    second: Pulse_Muzzle_0
+  - first:
+      213: -4941160249168671424
+    second: Pulse_Muzzle_1
+  - first:
+      213: 5937999426537150019
+    second: Pulse_Muzzle_2
+  - first:
+      213: -3652750383071914225
+    second: Pulse_Muzzle_3
+  - first:
+      213: -2222221971023641296
+    second: Pulse_Muzzle_4
+  - first:
+      213: -3645322207116790740
+    second: Pulse_Muzzle_5
+  - first:
+      213: 154295066615372454
+    second: Pulse_Muzzle_6
+  - first:
+      213: -6852632225813860037
+    second: Pulse_Muzzle_7
+  - first:
+      213: -4455836156460229228
+    second: Pulse_Muzzle_8
+  - first:
+      213: 2569485853897016301
+    second: Pulse_Muzzle_9
+  - first:
+      213: 6319446134995746202
+    second: Pulse_Muzzle_10
+  - first:
+      213: -2730213942383057222
+    second: Pulse_Muzzle_11
+  - first:
+      213: -2245320678114726981
+    second: Pulse_Muzzle_12
+  - first:
+      213: -503570633508432140
+    second: Pulse_Muzzle_13
+  - first:
+      213: -1051573946349611923
+    second: Pulse_Muzzle_14
+  - first:
+      213: -8013833287495655775
+    second: Pulse_Muzzle_15
+  - first:
+      213: 4519713087285186601
+    second: Pulse_Muzzle_16
+  - first:
+      213: -6073279158670583152
+    second: Pulse_Muzzle_17
+  - first:
+      213: 371428344753259366
+    second: Pulse_Muzzle_18
+  - first:
+      213: -3280409173868482812
+    second: Pulse_Muzzle_19
+  - first:
+      213: -6323166931691808376
+    second: Pulse_Muzzle_20
+  - first:
+      213: -8697872709062865634
+    second: Pulse_Muzzle_21
+  - first:
+      213: 6292731796911232391
+    second: Pulse_Muzzle_22
+  - first:
+      213: -2913757322670536567
+    second: Pulse_Muzzle_23
+  - first:
+      213: -509552829224019747
+    second: Pulse_Muzzle_24
+  - first:
+      213: -8630678293089316594
+    second: Pulse_Muzzle_25
+  - first:
+      213: 3802729821662943215
+    second: Pulse_Muzzle_00
+  - first:
+      213: -6723295428246792798
+    second: Pulse_Muzzle_01
+  - first:
+      213: -1101225012336661128
+    second: Pulse_Muzzle_02
+  - first:
+      213: -3135053631734804853
+    second: Pulse_Muzzle_03
+  - first:
+      213: -2971380328147069861
+    second: Pulse_Muzzle_04
+  - first:
+      213: -7286181291238971667
+    second: Pulse_Muzzle_05
+  - first:
+      213: -7622581228515358637
+    second: Pulse_Muzzle_06
+  - first:
+      213: -4325349518251697918
+    second: Pulse_Muzzle_07
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pulse_Muzzle_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 508
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7110500a206c430800000000000000
+      internalID: 3802729821662943215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Muzzle_01
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 508
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a59757fd6e02b2a0800000000000000
+      internalID: -6723295428246792798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Muzzle_02
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 508
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87de5e19fa9a7b0f0800000000000000
+      internalID: -1101225012336661128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Muzzle_03
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 508
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e06a8055d0e74d0800000000000000
+      internalID: -3135053631734804853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Muzzle_04
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 508
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54d538a55983c6d0800000000000000
+      internalID: -2971380328147069861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Muzzle_05
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 508
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6aa9e28b842ea90800000000000000
+      internalID: -7286181291238971667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Muzzle_06
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 508
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35808c242c6273690800000000000000
+      internalID: -7622581228515358637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Muzzle_07
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 508
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2095333a78549f3c0800000000000000
+      internalID: -4325349518251697918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pulse_Muzzle_0: 6615120096606566318
+      Pulse_Muzzle_00: 3802729821662943215
+      Pulse_Muzzle_01: -6723295428246792798
+      Pulse_Muzzle_02: -1101225012336661128
+      Pulse_Muzzle_03: -3135053631734804853
+      Pulse_Muzzle_04: -2971380328147069861
+      Pulse_Muzzle_05: -7286181291238971667
+      Pulse_Muzzle_06: -7622581228515358637
+      Pulse_Muzzle_07: -4325349518251697918
+      Pulse_Muzzle_1: -4941160249168671424
+      Pulse_Muzzle_10: 6319446134995746202
+      Pulse_Muzzle_11: -2730213942383057222
+      Pulse_Muzzle_12: -2245320678114726981
+      Pulse_Muzzle_13: -503570633508432140
+      Pulse_Muzzle_14: -1051573946349611923
+      Pulse_Muzzle_15: -8013833287495655775
+      Pulse_Muzzle_16: 4519713087285186601
+      Pulse_Muzzle_17: -6073279158670583152
+      Pulse_Muzzle_18: 371428344753259366
+      Pulse_Muzzle_19: -3280409173868482812
+      Pulse_Muzzle_2: 5937999426537150019
+      Pulse_Muzzle_20: -6323166931691808376
+      Pulse_Muzzle_21: -8697872709062865634
+      Pulse_Muzzle_22: 6292731796911232391
+      Pulse_Muzzle_23: -2913757322670536567
+      Pulse_Muzzle_24: -509552829224019747
+      Pulse_Muzzle_25: -8630678293089316594
+      Pulse_Muzzle_3: -3652750383071914225
+      Pulse_Muzzle_4: -2222221971023641296
+      Pulse_Muzzle_5: -3645322207116790740
+      Pulse_Muzzle_6: 154295066615372454
+      Pulse_Muzzle_7: -6852632225813860037
+      Pulse_Muzzle_8: -4455836156460229228
+      Pulse_Muzzle_9: 2569485853897016301
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
